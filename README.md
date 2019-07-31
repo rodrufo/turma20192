@@ -3,3 +3,5 @@
 Projeto de exemplo para turma.
 
 # Exemplo
+
+Primeiro teste de commit.
